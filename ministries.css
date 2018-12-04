@@ -1,0 +1,31 @@
+.quote {
+        padding: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color: #6a6a6a;
+    margin-top: 35px;
+}
+
+.linequote {
+    margin-bottom: 2px;
+}
+
+
+.bible {
+    margin-top: 30px;
+    font-style: normal;
+}
+
+.rightcol {
+    background-color: white;
+    color: #6a6a6a;
+    text-align: left;
+}
+
+.col-sm-6 {
+    margin-top: 20px;
+}
+
+.bottomM {
+    padding: 50px;
+}

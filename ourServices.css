@@ -1,0 +1,28 @@
+/*Found this from Google*/
+body { 
+    background: url("threecrosses.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/*End found this on Google*/
+
+.rightcolu {
+    color: #6a6a6a;
+    text-align: left;
+    background-color: white;
+   
+}
+
+.col-sm-6 {
+     margin-top: 60px;
+}
+
+.fillar {
+    padding: 90px;
+}
+
+.fas, .far {
+    color: #6a6a6a;
+}
