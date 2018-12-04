@@ -1,0 +1,72 @@
+.rightcol {
+    
+/*    margin-top: 30px;*/
+    background-color: white;
+/*
+    border-top: 2px solid #6a6a6a;
+    border-bottom: 2px solid #6a6a6a;
+*/
+    text-align: left;
+    color: #6a6a6a;
+     
+}
+
+.col-sm-6 {
+    margin-top: 20px;
+}
+
+.outerbox {
+    border-left: 2px solid #6a6a6a;
+    border-right: 2px solid #6a6a6a;
+}
+
+.fillerAboutUs {
+    color: #AADAE8;
+    padding: 30px;
+}
+
+
+.col-sm-6 a {
+    text-decoration: none;
+    
+   background-color: #6a6a6a;
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 6px;
+    border: 1px solid #6a6a6a;
+    border-radius: 5px;
+    
+    
+}
+
+.quote {
+    
+        padding: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color: #6a6a6a;
+     margin-top: 35px;
+}
+
+.linequote {
+    margin-bottom: 2px;
+}
+
+
+.bible {
+    margin-top: 30px;
+    font-style: normal;
+}
+
+.col-sm-6 a:hover {
+    color: #AADAE8;
+}
+
+
+
+
+
+
+
