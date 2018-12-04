@@ -1,0 +1,17 @@
+.fas {
+    color: #6a6a6a;
+}
+
+.container {
+    color: #6a6a6a;
+    padding: 60px;
+}
+
+.container h3 {
+    padding-top: 20px;
+}
+
+.fas:hover {
+    color: white;
+}
+

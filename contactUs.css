@@ -1,0 +1,49 @@
+
+.contactinfo p{
+    color: #6a6a6a;
+}
+
+.phone {
+    margin-top: 50px;
+}
+
+.fas {
+    margin-bottom: 20px;
+    color: #6a6a6a;
+}
+
+.info {
+    margin-bottom: 60px;
+}
+
+.facebook {
+    font-style: italic;
+}
+
+.col-sm-4 a {
+    color: #6a6a6a;
+}
+
+.contactbox {
+    margin-bottom: 200px;
+}
+
+
+.contactbox a {
+    color: white;
+    text-decoration: none;
+    border: 2px solid #6a6a6a;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #6a6a6a;
+}
+
+.fillatbottom {
+    padding: 0px;
+}
+
+.col-sm-4 a:hover {
+    color: white;
+}
+
+
